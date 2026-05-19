@@ -1,0 +1,14 @@
+- Revisar sua modalegem
+
+- Faz o script de insert do quis!!!
+
+- Obter pontuação para cada acerto do usuário 
+
+- Função cadastrarPontuacao (se baseia na logica do cadastrar usuário) - HTML
+
+- Criar uma rota para a função cadastrarPontuacao - quizRouter.js
+
+- Criar uma controller para a cadastrarPontuacao - quizController.js
+
+- Na model, os inserts - quizModel.js (AQUI É OS INSERTS)
+
